@@ -10,7 +10,6 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
 
-
   const [isOpen, setIsOpen] = useState(false);
 
   const handleClick = () => {
@@ -30,7 +29,7 @@ const Header = () => {
                 <div className="col-md-2 col-xxl-1 text-end d-none d-lg-block" style={{ marginLeft: '20px' }}>
                   <div className="list-inline">
                     <div className="list-inline-item">
-                      <Link
+                      <Link 
                         to="/ShopWishList"
                         className="text-muted position-relative"
                       >

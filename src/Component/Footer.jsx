@@ -291,7 +291,7 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link to="#" className="instagram ">
+                      <Link to="https://www.instagram.com/anand.abhishek.12/" className="instagram ">
                         <i className="bx bxl-instagram"></i>
                       </Link>
                     </li>
@@ -312,10 +312,10 @@ const Footer = () => {
                   © {year} All Rights Reserved By _
                   
                   <Link
-                    to="https://nigammishra.github.io/nigam-portfolio/"
+                    to="https://github.com/Abhishek-1209"
                     target="_blank"
                   >
-                     @nigammishra
+                     @Abhishek Kumar
                   </Link>
                 </div>
               </div>
